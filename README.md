@@ -19,13 +19,12 @@ The boilerplate includes an example (displaying fake user data) from UI componen
 
 ## Directory layout
 
-- [`App/Components`](App/Components): presentational components
-- [`App/Containers`](App/Containers): container components, i.e. the application's screens
-- [`App/Assets`](App/Assets): assets (image, audio files, ...) used by the application
-- [`App/Navigators`](App/Navigators): react navigation navigators 
-- [`App/Sagas`](App/Sagas): redux sagas
-- [`App/Services`](App/Services): application services, e.g. API clients
-- [`App/Stores`](App/Stores): redux [actions, reducers and stores](https://redux.js.org/basics)
+- [`App/Components`](App/components): presentational components
+- [`App/Containers`](App/containers): container components, i.e. the application's screens
+- [`App/Assets`](App/assets): assets (image, audio files, ...) used by the application
+- [`App/Navigators`](App/navigators): react navigation navigators 
+- [`App/Sagas`](App/sagas): redux sagas
+- [`App/Services`](App/services): application services, e.g. API clients
 
 For more information on each directory, click the link and read the directory's README.
 
