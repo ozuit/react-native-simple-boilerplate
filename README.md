@@ -1,3 +1,8 @@
+## Screenshot
+
+![react-native-simple-boilerplate](/screen/login.png?raw=true "Login Screen")
+![react-native-simple-boilerplate](/screen/app.png?raw=true "Dashboard Screen")
+
 ## The boilerplate contains
 
 - a [React Native](https://facebook.github.io/react-native/) (v**0.59.9**) application (in "[ejected](https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md)" mode to allow using dependencies that rely on native code)
